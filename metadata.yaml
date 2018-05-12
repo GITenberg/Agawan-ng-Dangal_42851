@@ -1,0 +1,24 @@
+_repo: Agawan-ng-Dangal_42851
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42851-h/images/new-cover-tn.jpg
+creator:
+  author:
+    agent_name: Cortes, Fausta
+    gutenberg_agent_id: '41886'
+    url: http://www.gutenberg.org/2009/agents/41886
+description: ''
+gutenberg_issued: '2013-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42851'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Tagalog fiction'
+title: Agawan ng Dangal
+url: http://www.gutenberg.org/ebooks/42851
